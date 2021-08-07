@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "wedding-books",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
